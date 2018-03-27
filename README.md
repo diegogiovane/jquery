@@ -1,1 +1,1 @@
-JQuery
+Curso de JQuery
